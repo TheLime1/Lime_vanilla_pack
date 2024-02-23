@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://raw.githubusercontent.com/TheLime1/Lime_vanilla_pack/main/icon.jpg" width="128px">
+    <img src="https://raw.githubusercontent.com/TheLime1/Lime_vanilla_pack/main/icon.png" width="128px">
 </p>
 <h1 align="center">Lime vanilla pack</h1>
 
