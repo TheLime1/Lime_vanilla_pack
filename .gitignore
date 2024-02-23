@@ -1,2 +1,4 @@
 output.txt
 *.py
+*.zip
+*.yml
