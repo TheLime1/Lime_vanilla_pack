@@ -3,8 +3,6 @@
 </p>
 <h1 align="center">Lime vanilla pack</h1>
 
----
-
 A **HUMONGOUS** modpack for lethal company while keeping it vanilla
 
 ## installation
