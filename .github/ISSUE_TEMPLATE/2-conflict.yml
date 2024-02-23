@@ -1,0 +1,45 @@
+name: Mod Conflict Report
+description: Report a conflict between two mods
+title: "[MOD CONFLICT]"
+labels: ["conflict"]
+assignees: ['']
+body:
+    - type: markdown
+        attributes:
+            value: |
+                Thanks for taking the time to report a mod conflict!
+    - type: input
+        id: mod1-name
+        attributes:
+            label: Mod 1 Name
+            description: Please enter the name of the first mod involved in the conflict.
+        validations:
+            required: true
+    - type: input
+        id: mod1-link
+        attributes:
+            label: Mod 1 Link
+            description: Please enter the link to the first mod.
+        validations:
+            required: true
+    - type: input
+        id: mod2-name
+        attributes:
+            label: Mod 2 Name
+            description: Please enter the name of the second mod involved in the conflict.
+        validations:
+            required: true
+    - type: input
+        id: mod2-link
+        attributes:
+            label: Mod 2 Link
+            description: Please enter the link to the second mod.
+        validations:
+            required: true
+    - type: textarea
+        id: conflict-description
+        attributes:
+            label: Conflict Description
+            description: Please describe the conflict in detail, including any error messages and the steps to reproduce it.
+        validations:
+            required: true
