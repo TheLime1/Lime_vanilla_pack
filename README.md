@@ -7,7 +7,7 @@ A **HUMONGOUS** modpack for lethal company while keeping it vanilla
 
 ## installation
 
-latest profile loader :
+latest profile loader : https://github.com/TheLime1/Lime_vanilla_pack/releases/latest
 
 ## mod list
 
