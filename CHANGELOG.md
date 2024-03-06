@@ -1,6 +1,11 @@
 # Changelog
 
 ```
+## 5.0.0
+    - ehm ehm.... more mods
+    - updated the CSync mod
+    - jumping do not consume stamina
+    - conflict detected : Scannig player bought items
 ## 4.0.0
     - GUESS WHAT? MORE MODS
     - buffed glow steps duration by 2 seconds (was 5, now 7)
