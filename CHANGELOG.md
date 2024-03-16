@@ -1,6 +1,8 @@
 # Changelog
 
 ```
+## 5.0.1
+    - updated some mods
 ## 5.0.0
     - ehm ehm.... more mods
     - updated the CSync mod
